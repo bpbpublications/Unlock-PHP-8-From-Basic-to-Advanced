@@ -1,0 +1,15 @@
+{
+    "name": "book/taskmanager",
+    "autoload": {
+        "psr-4": {
+            "TaskManager\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roni Sommerfeld",
+            "email": "roni@4tech.mobi"
+        }
+    ],
+    "require": {}
+}

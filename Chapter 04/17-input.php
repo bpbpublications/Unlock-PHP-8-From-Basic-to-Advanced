@@ -1,0 +1,1 @@
+<input type="file" name="fileToUpload" id="fileToUpload" accept=".jpg,.jpeg,.png" />
